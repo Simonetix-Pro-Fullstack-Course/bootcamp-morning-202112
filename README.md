@@ -1,3 +1,3 @@
 ![](https://i.imgur.com/JvPPOxO.png)
 
-# Full-Stack Web-Development Bootcamp 2021-12
+# Full-Stack Web-Development Course 2021-12
